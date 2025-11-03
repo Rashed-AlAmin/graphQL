@@ -1,21 +1,21 @@
 const products=[
     {
         id:'1',
-        tile:'laptop',
+        title:'laptop',
         category:'electronics',
         price:999.49,
         inStock:true
     },
      {
         id:'2',
-        tile:'coffe',
+        title:'coffe',
         category:'food',
         price:9.49,
         inStock:true
     }, 
      {
         id:'3',
-        tile:'shoes',
+        title:'shoes',
         category:'sports',
         price:99.49,
         inStock:false
